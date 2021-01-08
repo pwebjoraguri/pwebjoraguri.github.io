@@ -485,17 +485,6 @@ p a {
 	text-indent: 0;
 }
 
-#content div.home div.aside h2 {
-	color: #468428;
-	font-family: Trebuchet MS;
-	font-size: 20px;
-	font-style: italic;
-	font-weight: normal;
-	margin: 0 0 5px;
-	padding-bottom: 0;
-	text-indent: 0;
-}
-
 #content div.home div.aside p {
 	line-height: 28px;
 	margin: 0;
